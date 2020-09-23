@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=kiPrngDemo.vbp
+Project=DLL\kiPrng.vbp
